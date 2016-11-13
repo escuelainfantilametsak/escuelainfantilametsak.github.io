@@ -7487,7 +7487,7 @@ body.landing-page {
 }
 
 .landing-page .header-back.one {
-    background: url(../img/landing/header_one.jpg) 50% 0 no-repeat
+    background: url(../img/landing/logo1900.png) 50% 0 no-repeat
 }
 
 .landing-page .header-back.two {
@@ -7931,9 +7931,12 @@ body.landing-page {
         float: none
     }
     .landing-page .navbar .navbar-header .navbar-toggle {
-        background-color: #fff;
+        background-color: #69388b;
         padding: 9px 10px;
         border: none
+    }
+    .landing-page .header-back.one {
+        background: url(../img/landing/logo768.png) 50% 0 no-repeat
     }
 }
 
@@ -8250,4 +8253,8 @@ body.rtls.top-navigation .footer.fixed {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 22px
     }
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFFFFF
 }
