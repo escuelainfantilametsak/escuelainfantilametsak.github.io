@@ -7383,7 +7383,7 @@ body.landing-page {
 }
 
 .landing-page .navbar-default .nav li a {
-    color: #fff;
+    color: #69388b;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
@@ -7745,6 +7745,14 @@ body.landing-page {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     margin-top: 60px
+}
+
+.landing-page .contactoEmail {
+    background-image: url(../img/landing/fondo2.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    background-size: contain;
 }
 
 .landing-page section.timeline {
