@@ -50,6 +50,10 @@
     "link": {
         "link": "Link",
         "view": "views"
+    },
+    "contacto": {
+        "titulo": "Email contacto(es)",
+        "descripcion": "views"
     }
 
 }
