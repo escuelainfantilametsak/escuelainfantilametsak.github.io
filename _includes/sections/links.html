@@ -10,7 +10,7 @@
         {% assign loopindex = forloop.index | modulo: 3 %}
         {% if forloop.last %}
             {% if forloop.last == forloop.first %}
-        <div class="col-sm-4 col-sm-offset-4 wow zoomIn">
+        <div class="col-sm-3 col-sm-offset-9 wow zoomIn">
                 {% else %}
         <div class="col-sm-4 wow {% if loopindex != 0 %} col-sm-offset-4 fadeInRight {% else %} zoomIn {% endif %}">
             {% endif %}
@@ -20,6 +20,11 @@
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
             <p>{{ link.desc }}</p>
+            <p><span class="fa fa-home"></span> {{ link.direccion }}<br>
+                <span class="fa fa-phone-square"></span> {{ link.direccion }}<br>
+                <span class="fa fa-mobile"></span> 666 666 666 <br>
+                <span class="fa fa-facebook-square"></span> <a href="{{ link.faceboookAmetsak }}"> Ametsak Facebook </a> <br>
+            </p>
             <ul class="list-inline social-icon">
                 <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
                 </li>

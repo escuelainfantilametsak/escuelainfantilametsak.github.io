@@ -7317,6 +7317,16 @@ body.landing-page {
     color: #3385FF
 }
 
+#i18_link span.navy {
+    color: #69388b
+}
+
+#i18_link p {
+    color: #666;
+    font-size: 15px;
+    text-align: left;
+}
+
 .landing-page p.text-color {
     color: #676a6c
 }
@@ -7656,7 +7666,7 @@ body.landing-page {
 }
 
 .landing-page .team-member {
-    text-align: center
+    text-align: left
 }
 
 .landing-page .team-member img {
