@@ -7308,7 +7308,7 @@ body.body-small .vote-icon {
 }
 
 body.landing-page {
-    color: #676a6c;
+    color: #633287;
     font-family: 'Open Sans', helvetica, arial, sans-serif;
     background-color: #fff
 }
@@ -7351,15 +7351,16 @@ body.landing-page {
 
 .landing-page h1 {
     margin-top: 10px;
-    font-size: 30px;
-    font-weight: 200
+    font-size: 34px;
+    font-weight: 200;
+    font-family: 'Neucha', cursive;
 }
 
 .landing-page .navy-line {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #3385FF
+    border-bottom: 2px solid #8fbd43
 }
 
 .landing-page .navbar-wrapper {
