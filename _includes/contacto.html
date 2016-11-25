@@ -9,7 +9,13 @@
     </div>
     <div id="gg">
         <div class="container " id="i18_contacto">
-            <div class="col-md-6 col-sm-offset-3 wow zoomIn">
+
+
+             <!--<div class="col-lg-2  wow zoomIn">
+               
+            </div>-->
+
+            <div class="col-lg-6 col-lg-offset-3 wow zoomIn">
                 <div class="form-area ">
                     <form role="form ">
                         <br style="clear:both ">
@@ -35,30 +41,42 @@
                     </form>
                 </div>
             </div>
-            <div class="col-md-2 col-sm-offset-1 wow zoomIn">
-                <br style="clear:both ">
-                {% for link in site.data.links %}                   
-                    <div class="team-member">
-                        <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
-                        <p>{{ link.desc }}</p>
-                        <p>
-                             <!--<span class="fa fa-home"></span> {{ link.direccion }}<br>-->
-                            <span class="fa fa-phone-square"></span> {{ link.telefono }}<br>
-                            <span class="fa fa-mobile"></span> {{ link.telefono }}<br>
-                            <span class="fa fa-facebook-square" style="color: #3385ff"></span> <a href="{{ link.faceboookAmetsak }}"> Ametsak Facebook </a> <br>
-                        </p>
-                        <ul class="list-inline social-icon">
-                            <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
-                            </li>
-                            <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                    </div>
+            <div class="col-lg-2 col-lg-offset-1 wow zoomIn">
+
+            <br style="clear:both "> 
+            {% for link in site.data.links %}
+                <div class="team-member">
+                    <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
+                    <p>{{ link.desc }}</p>
+                    <p>
+                        <!--<span class="fa fa-home"></span> {{ link.direccion }}<br>-->
+                        <span class="fa fa-phone-square"></span> {{ link.telefono }}<br>
+                        <span class="fa fa-mobile"></span> {{ link.telefono }}<br>
+                        <span class="fa fa-facebook-square" style="color: #3385ff"></span> <a href="{{ link.faceboookAmetsak }}"> Ametsak Facebook </a> <br>
+                    </p>
+                    <ul class="list-inline social-icon">
+                        <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
+                        </li>
+                        <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
+                        </li>
+                    </ul>
+                </div>
                 {% endfor %}
-           
+
+                <br style="clear:both ">
+
+                <!--<img src="/static/img/landing/llamanos.png" class="img-responsive" alt="Cinque Terre">-->
+                <img class="visible-lg" src="/static/img/landing/llamanos.png" width="250"  />
+                <img class="visible-md" src="/static/img/landing/llamanos.png" width="200"  />
+                <img class="visible-sm" src="/static/img/landing/llamanos.png" width="150"  />
+                <img class="visible-xs" src="/static/img/landing/llamanos.png" width="150"  />
             </div>
-            <!-- <div class="col-lg-4">
+
+
+
+
+        </div>
+        <!-- <div class="col-lg-4">
                 <h3><span data-i18n="contacto.titulo">Etapas</span></h3>
                 <p><span class="fa fa-home"></span> Some Address 987, NY<br>
                     <span class="fa-phone-square"></span> +34 9884 4893 <br>
@@ -66,7 +84,7 @@
                     <span class="fa fa-facebook-square"></span> <a href="#"> BlackTie Agency </a> <br>
                 </p>
             </div>-->
-        </div>
+    </div>
     <br style="clear:both ">
     <br style="clear:both ">
     <br style="clear:both ">
