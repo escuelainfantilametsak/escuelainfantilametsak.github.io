@@ -5,7 +5,7 @@ title: "Escuela Infantil ametsak"
 description: "Escuela Infantil Ametsak"
 keywords: "guarderia,barakaldo,escuela infantil,ametsak"
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "http://www.escuelainfantilametsak.com"
 # url: "http://127.0.0.1:4000"
 
 # author
@@ -14,40 +14,40 @@ author:
   first_name: 'Jia'
   last_name: 'Kun'
   email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  facebook_username: 'escuelainfantialametsak'
+  github_username: 'Jack614'  
+  head_img: 'static/img/landing/Jack.png'
   desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
 
 # sections
 sections:
   - id: 'about-me'
     i18n: 'nav.about_me'
-    name: 'About'
+    name: 'Filosofia'
     tpl: 'about.html'
     css: ''
 
-  - id: 'career'
-    i18n: 'nav.career'
-    name: 'Career'
+  - id: 'carteer'
+    i18n: 'nav.cardeer'
+    name: 'Equipo'
     tpl: 'career.html'
     css: 'timeline'
 
   - id: 'skills'
     i18n: 'nav.skills'
-    name: 'Skills'
+    name: 'Horarios'
     tpl: 'skills.html'
     css: 'team'
 
   - id: 'projects'
     i18n: 'nav.projects'
-    name: 'Projects'
+    name: 'Servicios'
     tpl: 'projects.html'
     css: 'project'
 
   - id: 'Instalaciones'
     i18n: 'nav.instalaciones'
-    name: 'Instalaciones'
+    name: 'Instalacionessss'
     tpl: 'portfolio.html'
     css: 'project'
 
@@ -59,7 +59,7 @@ sections:
 
   - id: 'links'
     i18n: 'nav.link'
-    name: 'Links'
+    name: 'Contacto'
     tpl: 'links.html'
     css: 'contact'
 

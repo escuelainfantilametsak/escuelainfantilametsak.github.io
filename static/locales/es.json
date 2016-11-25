@@ -4,16 +4,19 @@
     },
     "nav": {
         "home": "Homeee",
-        "about_me": "About",
-        "skills": "Skills",
-        "projects": "Projects",
-        "career": "Career",
-        "blog": "Blog",
-        "link": "Link"
+        "about_me": "Filosofia",
+        "skills": "Horario",
+        "projects": "Servicios",
+        "career": "Equipo",
+        "blog": "Noticias",
+        "instalaciones": "instalaciones",
+        "link": "Contacto"
     },
     "about_me": {
-        "about_me": "About Meeeee",
-        "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+        "about_me": "Filosofía",
+        "des": "La Escula Infantil AMETSAK es un centro educativo y asistencial para niños de 4 a 3 años on instalacioness autorizadas por el Gobierno Vascos",
+        "des2": "El principal objetibo de las educadoras es el bienestar de los niños,por ello, haremos que los más pequeños se sientan seguros, queridos y aceptados dando mayor importancia al contacto afectivo para que desarrollen todo su potencial",
+        "des3": "El centro se apoya en la metodoligia de gleen Doman y tambien ofrece servicios de estimulacion temprara a nivel motor sensorial cognitivo y musical"
     },
     "skills": {
         "my_skills": "My Skills"
