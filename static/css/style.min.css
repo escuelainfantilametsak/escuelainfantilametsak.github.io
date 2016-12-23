@@ -8305,3 +8305,8 @@ body.rtls.top-navigation .footer.fixed {
 .fa-phone-square{
 color: #12cf64;
 }
+
+.row {
+    margin-right: -1px;
+    margin-left: -1px;
+}
