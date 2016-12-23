@@ -15,6 +15,7 @@ $(document).ready(function() {
         $('#i18_blog').i18n();
         $('#i18_link').i18n();
         $('#i18_contacto').i18n();
+        $('#i18_instalaciones').i18n();
     };
 
     $("[id^=set_lang]").each(function() {
