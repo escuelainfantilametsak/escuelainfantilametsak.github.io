@@ -1,8 +1,8 @@
-- name: Blog
-  href: '/blog/'
+- name: Home
+  href: '/'
 
-- name: Python
-  href: '/python/'
+- name: Contacto
+  href: '/#links'
 
 - name: Linux
   href: '/linux/'
