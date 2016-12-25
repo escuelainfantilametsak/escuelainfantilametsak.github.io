@@ -1,20 +1,9 @@
-- name: Home
-  href: '/'
 
-- name: Contacto
-  href: '/#links'
 
-- name: Linux
-  href: '/linux/'
+- name: Avisos Padres
+  href: '/Importante/'
 
-- name: HTML
-  href: '/html/'
+- name: Noticias
+  href: '/Blog/all/'
 
-- name: Database
-  href: '/database/'
 
-- name: Mac
-  href: '/mac/'
-
-- name: Life
-  href: '/life/'
