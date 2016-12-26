@@ -4403,7 +4403,8 @@ ul.notes li {
 }
 
 .progress-bar {
-    background-color: #3385FF
+    background-color: #3385FF;
+    font-size: 15px;
 }
 
 .progress-small,
