@@ -7970,7 +7970,7 @@ li#facebook_navbar i.fa.fa-facebook {
         float: none
     }
     .landing-page .navbar .navbar-header .navbar-toggle {
-        background-color: #69388b;
+        background-color: #ffffff;
         padding: 9px 10px;
         border: none
     }
@@ -8298,7 +8298,7 @@ body.rtls.top-navigation .footer.fixed {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #FFFFFF
+    background-color: #69388b
 }
 
 #map {
