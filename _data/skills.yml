@@ -1,20 +1,20 @@
-- name: Python
+- name: Lunes
   percentage: 85
+  horario: 7:30 - 17:30
 
-- name: HTML/CSS
-  percentage: 65
-
-- name: Linux/Shell
-  percentage: 75
-
-- name: jQuery
+- name: Martes
   percentage: 85
+  horario: 7:30 - 17:30
 
-- name: AngularJS
-  percentage: 80
+- name: Miercoles
+  percentage: 85
+  horario: 7:30 - 17:30
 
-- name: Ionic
-  percentage: 70
+- name: Jueves
+  percentage: 85
+  horario: 7:30 - 17:30
 
-- name: Vuejs
-  percentage: 65
+- name: Viernes
+  percentage: 60
+  horario: 7:30 - 16:00
+

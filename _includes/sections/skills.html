@@ -15,6 +15,7 @@
             <div class="col-lg-7 wow  {% if loopindex == 1 %} fadeInRight {% else %} fadeInLeft {% endif %}">
                 <div class="progress progress-bar-default">
                     <div style="width: {{ skill.percentage }}%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="{{ skill.percentage }}" role="progressbar" class="progress-bar">
+                    {{ skill.horario }}
                     </div>
                 </div>
             </div>
