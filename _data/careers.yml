@@ -1,47 +1,47 @@
 - name:
-    detail: Nextcode
+    detail: Irantzu
     i18n: nextcode
   desc:
-    detail: Etapa donde desarrollamos su iniciativa
+    detail: Actividades psicomotrices: control del equilibrio y la coordinación, control postural y del movimiento, motricidad fina
     i18n: nextcode_des
   date:
     detail: 0 - 1 años
     i18n: nextcode_date
   job:
-    detail: Comienza su andadura
+    detail: Educadora y Gestora
     i18n: nextcode_job
-  icon: Jack.jpg
+  icon: iran.png
 
 - name:
-    detail: Netease Game
+    detail: Cris
     i18n: netease
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
+    detail: Favorecer el desarrollo físico y psíquico del niñ@ con una buena estimulación temprana
     i18n: netease_des
   date:
-    detail: Jun. 2015
+    detail: 1-2 años
     i18n: nextcode_date
   job:
-    detail: Dev Ops
+    detail: Educadora y Gestora
     i18n: netease_job
-  icon: Jack.jpg
+  icon: cris.png
 
 - name:
-    detail: Ucloud
+    detail: Leire
     i18n: ucloud
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
+    detail: Comenzar la autonomía personal del niñ@ mediante la adquisición de buenos hábitos en la escuela y pautas de convivencia
     i18n: ucloud_des
   date:
-    detail: Sep. 2013
+    detail: 1-2 años
     i18n: ucloud_date
   job:
-    detail: Dev Ops
+    detail: Educadora y Gestora
     i18n: ucloud_job
-  icon: Jack.jpg
+  icon: leire.png
 
 - name:
-    detail: Graduation
+    detail: Chica Nueva
     i18n: college
   desc:
     detail: At July 2013,I graduated from college and started my IT technology tour.
@@ -50,6 +50,6 @@
     detail: Jul. 2013
     i18n: college_date
   job:
-    detail: Student
+    detail: Educadora Infantil
     i18n: college_job
   icon: Jack.jpg
