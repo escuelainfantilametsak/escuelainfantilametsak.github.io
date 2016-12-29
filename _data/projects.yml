@@ -1,20 +1,20 @@
-- name: 'Saplatform'
+- name: 'Trilingue'
   i18n: 'saplatform'
   url: '/Jack614/saplatform'
-  img: 'static/img/landing/saplatform.png'
+  img: 'static/img/landing/language.png'
   desc: 'Apostamos por un modelo educativo con nuestras dos lenguas, euskara y castellano, utilizando la primera como lengua vehicular y también introducimos a nuestros txikis en el conocimiento y uso del inglés.'
 
-- name: 'Jalpc'
+- name: 'Becas y subvenciones'
   i18n: 'jalpc'
   url: '/Jack614/jalpc_jekyll_theme'
   img: 'static/img/landing/jekyll.png'
-  desc: "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices."
+  desc: "Todas nuestras plazas están subvencionadas por el gobierno vasco por lo que ofrecemos unas tarifas más que interesantes. También podréis beneficiaros de las becas y subvenciones que ofrecen cada año. Nosotros nos encargamos de todos los tramites para que no tengáis que preocuparos de nada."
 
-- name: 'Jalpc-A'
+- name: 'Centro Autorizado Gobierno Vasco'
   i18n: 'angularjs'
   url: '/Jack614/Jalpc-A'
   img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+  desc: "centro autorizado y homologado, ya que cumple todas las normativas marcadas por el Gobierno Vasco. Nuestro proyecto abarca desde los 4 meses hasta los 3 años y en total disponemos de 52 matrículas repartidas encuatro clases: bebés, 1 año A, 1 año B y 2 años."
 
 - name: 'Rsser'
   i18n: 'rsser'
