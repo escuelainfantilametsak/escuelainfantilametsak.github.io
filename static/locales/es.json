@@ -1,6 +1,6 @@
 {
     "website": {
-        "title": "Jack's blog Espaa"
+        "title": "Ametsak escuela infantil"
     },
     "nav": {
         "home": "Homeee",
@@ -22,10 +22,14 @@
         "propiedad3": "Comunicación y representación"
     },
     "skills": {
-        "my_skills": "My Skills"
+        "my_skills": "Horario 15/16",
+        "resumen": "Abierto de LUNES a VIERNES, excepto festivos nacionales y los pertenecientes a la comunidad autonoma, el horario de Ametsak pretende adaptarse a todas la necesidades de los aitas",
+        "resumen2": "Por ello el centro permanecera abierto de :",
+        "resumen3": "El horario para del curso 2015/2016 es el siguiente:",
+        "especial":" 7:30 a 19:00"
     },
     "projects": {
-        "my_projects": "My Projects",
+        "my_projects": "Servicios",
         "saplatform": "Apostamos por un modelo educativo con nuestras dos lenguas, euskara y castellano, utilizando la primera como lengua vehicular y también introducimos a nuestros txikis en el conocimiento y uso del inglés.",
         "jalpc": "Todas nuestras plazas están subvencionadas por el gobierno vasco por lo que ofrecemos unas tarifas más que interesantes. También podréis beneficiaros de las becas y subvenciones que ofrecen cada año. Nosotros nos encargamos de todos los tramites para que no tengáis que preocuparos de nada.",
         "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
