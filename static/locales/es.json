@@ -23,9 +23,11 @@
     },
     "skills": {
         "my_skills": "Horario 15/16",
-        "resumen": "Abierto de LUNES a VIERNES, excepto festivos nacionales y los pertenecientes a la comunidad autonoma, el horario de Ametsak pretende adaptarse a todas la necesidades de los aitas",
+        "resumen": "Abierto de ",
         "resumen2": "Por ello el centro permanecera abierto de :",
         "resumen3": "El horario para del curso 2015/2016 es el siguiente:",
+        "resumen4": "LUNES a VIERNES",
+        "resumen5": " excepto festivos nacionales y los pertenecientes a la comunidad autonoma, el horario de Ametsak pretende adaptarse a todas la necesidades de los aitas",
         "especial":" 7:30 a 19:00"
     },
     "projects": {
