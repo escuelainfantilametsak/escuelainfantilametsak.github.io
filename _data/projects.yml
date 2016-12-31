@@ -13,7 +13,7 @@
 - name: 'Centro Autorizado Gobierno Vasco'
   i18n: 'angularjs'
   url: '/Jack614/Jalpc-A'
-  img: 'static/img/landing/angularjs.png'
+  img: 'static/img/landing/logotipoGV.png'
   desc: "centro autorizado y homologado, ya que cumple todas las normativas marcadas por el Gobierno Vasco. Nuestro proyecto abarca desde los 4 meses hasta los 3 años y en total disponemos de 52 matrículas repartidas encuatro clases: bebés, 1 año A, 1 año B y 2 años."
 
 - name: 'Rsser'
