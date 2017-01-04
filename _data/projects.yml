@@ -15,7 +15,7 @@
 
 - name: 'Servicio Guarderia'
   i18n: 'rsser'  
-  img: 'static/img/landing/rsser.png'
+  img: 'static/img/landing/blocks.png'
   desc: Ofrecemos un servicio de horario ampliado para facilitar la conciliación laboral y familiar. Por la mañana de 7:30 a 9:00, y por la tarde partir de las 17:30 hasta las 19:00 con un carácter lúdico y recreativo.
 
 
