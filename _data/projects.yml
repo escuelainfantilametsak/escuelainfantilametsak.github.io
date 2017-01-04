@@ -5,7 +5,7 @@
 
 - name: 'Becas y subvenciones'
   i18n: 'jalpc'
-  img: 'static/img/landing/jekyll.png'
+  img: 'static/img/landing/becas.png'
   desc: "Todas nuestras plazas están subvencionadas por el gobierno vasco por lo que ofrecemos unas tarifas más que interesantes. También podréis beneficiaros de las becas y subvenciones que ofrecen cada año. Nosotros nos encargamos de todos los tramites para que no tengáis que preocuparos de nada."
 
 - name: 'Centro Autorizado Gobierno Vasco'
