@@ -60,11 +60,11 @@
         "my_blog": "Noticias(eu)"
     },
     "link": {
-        "link": "Link",
+        "link": "Contacto",
         "view": "views"
     },
     "contacto": {
-        "titulo": "Email contacto(eu)",
+        "titulo": "Pregúntanos cualquier duda(eu)",
         "descripcion": "views"
     }
 
