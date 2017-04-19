@@ -30,7 +30,7 @@ permalink: /
                     {% endfor %} {% for language in site.languages %}
                     <li>
                         <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
-                            <img src="{{ language.flag | prepend: site.baseurl }}" height="16px" width="16px">
+                            <img alt="lenguaje" src="{{ language.flag | prepend: site.baseurl }}" height="16px" width="16px">
                         </a>
                     </li>
                     {% endfor %}
@@ -83,4 +83,5 @@ permalink: /
     {% include sections/{{section.tpl}} %}
 </section>
 {% endfor %}
-<iframe src="http://www.maimemo.com/share/page/?uid=779139&pid=660" style="display: none;"></iframe> {% include contacto.html %}
+<!--<iframe src="http://www.maimemo.com/share/page/?uid=779139&pid=660" style="display: none;"></iframe>-->
+{% include contacto.html %}
