@@ -11,7 +11,7 @@
 - name: 'Centro Autorizado Gobierno Vasco'
   i18n: 'angularjs'
   img: 'static/img/landing/logotipoGV.png'
-  desc: "centro autorizado y homologado, ya que cumple todas las normativas marcadas por el Gobierno Vasco. Nuestro proyecto abarca desde los 4 meses hasta los 3 años y en total disponemos de 52 matrículas repartidas en cuatro clases: bebés, 1 año A, 1 año B y 2 años."
+  desc: "Centro autorizado y homologado, ya que cumple todas las normativas marcadas por el Gobierno Vasco. Nuestro proyecto abarca desde los 4 meses hasta los 3 años y en total disponemos de 52 matrículas repartidas en cuatro clases: bebés, 1 año A, 1 año B y 2 años."
 
 - name: 'Servicio Guarderia'
   i18n: 'rsser'  

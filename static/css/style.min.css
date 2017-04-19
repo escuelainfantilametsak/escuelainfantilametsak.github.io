@@ -8340,3 +8340,9 @@ color: #12cf64;
     }
 }
 
+@media (max-width:768px) {
+    #i18_title > img {
+        width: 100px;
+    }
+}
+
