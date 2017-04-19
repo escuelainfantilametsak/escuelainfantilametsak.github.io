@@ -8324,7 +8324,7 @@ color: #12cf64;
     text-transform: uppercase;
     font-size: 9px;
     }
-    landing-page .navbar-default .navbar-brand {
+    .landing-page .navbar-default .navbar-brand {
     color: #fff;
     height: auto;
     display: block;
