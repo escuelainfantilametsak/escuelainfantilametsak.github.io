@@ -6,7 +6,7 @@
         "home": "Home",
         "about_me": "Filosofia",
         "skills": "Ordutegia",
-        "projects": "proiektua",
+        "projects": "zerbitzuak",
         "career": "etapak",
         "blog": "berriak",
         "instalaciones": "instalazioak",
@@ -31,10 +31,10 @@
         "especial":" 7:30 a 19:00"
     },
     "projects": {
-        "my_projects": "My Projects",
-        "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-        "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-        "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
+        "my_projects": "zerbitzuak",
+        "saplatform": "Heziketa-modeloagatik apustu egiten dugu gure bi hizkuntzekin, euskara eta gaztelania, ibilgailu-hizkuntza bezala lehena erabiliz eta gure txikis-ak sartzen ditugu ere ezagueran eta ingelesaren erabileran.",
+        "jalpc": "Gure plaza guztiak euskal gobernuak diruz lagunduta daude tarifa batzuk gehiago eskaintzen ditugun interesgarriak baino|bai. Etekina atera ahal izango diezue bekei eta urtero eskaintzen dituzten diru-laguntzei ere. Gu arduratzen gara guztiko tramita ditzazun ezerez ez dezazuela arduratu behar.",
+        "angularjs": "Baimendutako eta, Eusko Jaurlaritzak markatutako araudi guztiak betetzen dituenez gero, homologatutako zentroa|gunea. Gure proiektuak 4 hilabeteetatik bere gain hartzen du 3 urteetara arte eta guztira lau klasetan banandutako 52 matrikula dauzkagu: haurtxoak, A urte 1etan, B urte 1etan eta 2 urtetan.",
         "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
     },
     "career": {
