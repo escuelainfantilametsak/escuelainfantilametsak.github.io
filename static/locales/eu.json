@@ -38,7 +38,7 @@
         "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
     },
     "career": {
-        "my_career": "My Career",
+        "my_career": "etapak",
         "nextcode": "Nextcode",
         "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
         "nextcode_date": "Apr. 2016",
@@ -57,14 +57,14 @@
         "college_job": "Student"
     },
     "blog": {
-        "my_blog": "Noticias(eu)"
+        "my_blog": "Berriak"
     },
     "link": {
-        "link": "Contacto",
+        "link": "Kontaktua",
         "view": "views"
     },
     "contacto": {
-        "titulo": "Pregúntanos cualquier duda(eu)",
+        "titulo": "Galde iezaguzu edozein zalantza",
         "descripcion": "views"
     }
 
