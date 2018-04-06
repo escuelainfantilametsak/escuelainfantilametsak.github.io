@@ -30,7 +30,7 @@ sections:
     css: ''
 
   - id: 'carteer'
-    i18n: 'nav.cardeer'
+    i18n: 'nav.career'
     name: 'Equipo'
     tpl: 'career.html'
     css: 'timeline'
