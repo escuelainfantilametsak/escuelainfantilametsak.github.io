@@ -118,6 +118,8 @@ social:
   name: Escuela Infantil Ametsak
   links:
     - https://es-es.facebook.com/escuela.ametsak
+    
+lang: "es"
   
 # Plugins
 plugins:
