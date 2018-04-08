@@ -113,3 +113,12 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
+social:
+  name: Escuela Infantil Ametsak
+  links:
+    - https://es-es.facebook.com/escuela.ametsak
+  
+# Plugins
+plugins:
+  - jekyll-seo-tag
