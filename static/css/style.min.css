@@ -8306,6 +8306,11 @@ body.rtls.top-navigation .footer.fixed {
     height: 100%;
 }
 
+#pagina_principal a {
+    color: #35e67c;
+}
+
+
 .fa-phone-square{
 color: #12cf64;
 }

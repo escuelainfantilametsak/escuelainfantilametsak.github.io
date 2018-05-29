@@ -28,6 +28,9 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a class="page-scroll" href="/blog/">{{ site.index.home }}</a></li>
+                    <li id=pagina_principal>
+                        <a href="/">Pagina Principal</i></a>
+                    </li>
                     {% for tag in site.data.blog %} {% if page.title == tag.name %}
                     <li class="active">
                         {% else %}
@@ -35,9 +38,7 @@
                             {% endif %}
                             <a class="page-scroll" href="{{ tag.href }}">{{ tag.name }}</a></li>
                         {% endfor %}
-                    <li id=facebook_navbar>
-                        <a href="/"><i class="fa fa-home"></i></a>
-                    </li>
+                    
                 </ul>
             </div>
         </div>
