@@ -4,7 +4,7 @@ title:  "Primeros auxilios"
 date:   2018-05-08
 desc: "Primeros Auxilios"
 keywords: "auxilios"
-categories: [HTML]
+categories: [cursos]
 tags: [Ionic]
 icon: icon-phone-gap
 ---
