@@ -9,5 +9,5 @@ tags: [olentzero]
 icon: icon-javascript
 ---
 
-![GitHub Logo](static/imag/blog/olentzero2011/olentzero.jpg)
+![Olentzero 2011](static/img/blog/olentzero2011/olentzero.jpg)
 
