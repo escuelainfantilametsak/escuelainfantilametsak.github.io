@@ -8308,6 +8308,12 @@ body.rtls.top-navigation .footer.fixed {
 
 #pagina_principal a {
     color: #35e67c;
+    background-color: rebeccapurple;
+}
+
+#pagina_principal a:hover {
+    color: white;
+    background-color: rebeccapurple;
 }
 
 

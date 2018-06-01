@@ -76,9 +76,9 @@ languages:
 img_path: 'http://www.jack003.com/static/img/blog'
 
 # donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+#donate:
+  #wechat: 'static/img/pay/wechat.png'
+  #alipay: 'static/img/pay/alipay.png'
 
 # comment
 changyan:
@@ -89,8 +89,8 @@ disqus:
   public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+#bshare:
+  #uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
 
 # baidu analytics
 ba:
